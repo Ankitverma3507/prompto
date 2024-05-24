@@ -38,7 +38,7 @@ return (
                         width={40} 
                         height={40} 
                         alt='Profile' 
-                        className='object-contain'
+                        className='object-contain rounded-full'
                         />
                     </Link>
                 </div>
